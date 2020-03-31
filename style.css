@@ -1,0 +1,15 @@
+.container-fluid{
+    padding-top: 60px;
+}
+#principal{
+    background-color:#fcffff;
+    padding-bottom:50px;
+    box-shadow:0 0 3px 0 grey;
+}
+article{
+    padding-top:30px;
+}
+card-body{
+    padding:10px;
+}
+
